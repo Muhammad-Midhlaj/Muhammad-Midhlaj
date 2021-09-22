@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Muhammad /midhlaj</h1>
+<h1 align="center">Hi 👋, I'm Muhammad midhlaj</h1>
 <h3 align="center">Web developer|Tech enthusiast|Ethical Hacker| Game server developer</h3>
 
 - 🔭 I’m currently working on [Devalokam framework](https://github.com/Devalokam-RP)

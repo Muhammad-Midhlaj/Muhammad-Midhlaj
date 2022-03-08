@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Fivem,gta5 framework,Discord bot**
 
-- 📫 How to reach me **procoderrr4@gmail.com**
+- 📫 How to reach me **mail@midhlaj.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -24,5 +24,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/procoder4"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="procoder4" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=procoder4&show_icons=true&locale=en" alt="procoder4" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Midhlaj&show_icons=true&locale=en" alt="Muhammad-Midhlaj" /></p>
 

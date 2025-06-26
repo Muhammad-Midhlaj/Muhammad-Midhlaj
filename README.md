@@ -18,7 +18,7 @@ I'm a passionate **Penetration Tester** and **Security Researcher**, dedicated t
 Beyond the terminal, I'm also a **developer** with a keen interest in how technology shapes our world.
 
 🌱 **Currently Sharpening My Skills:**
-*   Deep diving into **eAPT (Advanced Penetration Tester)** methodologies.
+*   Deep diving into **Advanced Penetration Tester** methodologies.
 *   Exploring the intersection of **Artificial Intelligence** in cybersecurity.
 *   Experimenting with cutting-edge **security testing tools and frameworks**.
 
